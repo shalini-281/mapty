@@ -1,1 +1,1 @@
-# mapty
+https://manasvi-mapty.netlify.app/
